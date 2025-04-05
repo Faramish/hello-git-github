@@ -2,7 +2,7 @@ Hello Git Github
 
 # H1
 
-**SIMPLE TEXT**
+__SIMPLE TEXT__
 
 ## H2
 
